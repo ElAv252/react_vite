@@ -6,8 +6,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   console.log('hello world');
-  console.log(Math.PI);
-  console.log(20);
+  console.log(Math.PI * 2);
+  console.log(20 / 3);
   return (
     <div className="App">
       <h2>elazar</h2>
