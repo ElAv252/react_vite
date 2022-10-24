@@ -8,6 +8,8 @@ function App() {
   console.log('hello world');
   console.log(Math.PI * 2);
   console.log(20 / 3);
+  console.log(Math.LOG2E);
+
   return (
     <div className="App">
       <h2>elazar</h2>
